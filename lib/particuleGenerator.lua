@@ -2,8 +2,8 @@
   particule Generator class
   version 7 avril 2021
 ]] --
-local Class = require "lib/class"
-local Particule = require "lib/particule"
+local Class = require ("lib/class")
+local Particule = require ("lib/particule")
 
 local ParticuleGenerator = Class {}
 --
