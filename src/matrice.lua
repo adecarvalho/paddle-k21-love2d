@@ -1,5 +1,5 @@
-local Class = require "lib/class"
-local Block = require "src/block"
+local Class = require ("lib/class")
+local Block = require ("src/block")
 
 local BLOCK_WIDTH = 50
 local BLOCK_HEIGHT = 25
