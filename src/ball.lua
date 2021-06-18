@@ -1,6 +1,6 @@
 --
 local Class = require("/lib/class")
-local Entity = require("/lib/Entity")
+local Entity = require("/lib/entity")
 
 local Ball = Class {__includes = Entity}
 
