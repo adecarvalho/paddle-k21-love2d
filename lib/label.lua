@@ -2,7 +2,7 @@
   label class
   version 7 avril 2021
 ]] --
-local Class = require "lib/class"
+local Class = require ("lib/class")
 local Label = Class {}
 --
 function Label:init(text, font, size)
