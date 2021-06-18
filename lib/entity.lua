@@ -3,8 +3,8 @@
   version 7 avril 2021
 ]] --
 
-local Class = require "lib/class"
-local RectBounds = require "lib/rectBounds"
+local Class = require ("lib/class")
+local RectBounds = require ("lib/rectBounds")
 
 local Entity = Class {}
 --
