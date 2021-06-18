@@ -2,7 +2,7 @@
   particule class
   version 7 avril 2021
 ]] --
-local Class = require "lib/class"
+local Class = require ("lib/class")
 
 local Particule = Class {}
 
