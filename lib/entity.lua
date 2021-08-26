@@ -31,6 +31,14 @@ function Entity:init(xp, yp, image, width, height)
     self.state = ""
 end
 --
+function Entity:getWidth()
+  return self.width
+ end
+--
+function Entity:getHeight()
+  return self.height
+end
+--
 function Entity:getPositionX()
     return self.position.x
 end
